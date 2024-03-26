@@ -12,6 +12,7 @@
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
     "flowbite": "^2.3.0",
+    "mitt": "^3.0.1",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",
     "tailwind-accent-color": "^1.0.2",
