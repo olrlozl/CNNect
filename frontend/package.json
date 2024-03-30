@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "proxy": "https://clovaspeech-gw.ncloud.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
