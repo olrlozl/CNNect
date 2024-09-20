@@ -179,16 +179,14 @@ _ElasticSearch를 활용하여 검색 기능 최적화_
 ## 🔨 개발 환경
 
 #### Frontend
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/vue 3.4.15-4FC98D?style=for-the-badge&logo=vue&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/vue 3.4.15-4FC98D?style=for-the-badge&logo=vue&logoColor=white">
 <img src="https://img.shields.io/badge/node.js -339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/cheerio-E88C1F?style=for-the-badge&logo=cheerio&logoColor=white">
 
 #### Backend
-<img src="https://img.shields.io/badge/java 17-E84135?style=for-the-badge&logo=y&logoColor=white">
-<img src="https://img.shields.io/badge/spring boot 3-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+<img src="https://img.shields.io/badge/java 17-E84135?style=for-the-badge&logo=y&logoColor=white"> <img src="https://img.shields.io/badge/spring boot 3-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
 <img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=for-the-badge&logo=t&logoColor=white">
 <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -197,22 +195,18 @@ _ElasticSearch를 활용하여 검색 기능 최적화_
 <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=y&logoColor=white">
 
 #### Infra
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
 
 #### IDE
-<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
-<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 #### Version control
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 
 #### Management Tools
-<img src="https://img.shields.io/badge/jira software-0052CC?style=for-the-badge&logo=jira software&logoColor=white">
-<img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+<img src="https://img.shields.io/badge/jira software-0052CC?style=for-the-badge&logo=jira software&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
