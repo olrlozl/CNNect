@@ -3,3 +3,5 @@
 ./data/data/json/cnnect_final.json
 ./data/data/json/addDifficulty.json
 ./data/data/json/cnnect_baseData.json
+data/data/json/
+exec/MongoDB_Dump.json
